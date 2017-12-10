@@ -37,7 +37,7 @@ book study club
 
 ![underbleu profile image](img/underbleu_profile_171209.png)
 
-- [Github](https://github.com/devsadventure)
+- [Github](https://github.com/underbleu)
 - <underbleu.dev@gmail.com>
 - [blog](https://underbleu.github.io)
 
