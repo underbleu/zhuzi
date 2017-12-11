@@ -25,7 +25,7 @@ book study club
 
 ### 2017년 12월 8일 금요일 발표 모임
 
-![20171208](img/20171208.jpg)
+![20171208](img/http-n-network-basic.jpg)
 
 (그림으로 배우는) HTTP & Network Basic / 우에노 센 / 이병억 옮김 / 영진닷컴 / 978-89-314-4789-7
 
