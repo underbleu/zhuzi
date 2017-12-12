@@ -1,4 +1,6 @@
 # HTTP정보는 HTTP메시지에 있다
+>작성자: 김보영 underbleu.dev@gmail.com  
+블로그포스트: [HTTP 메시지](https://underbleu.github.io/bookstudy/http-network-basic/pt3/)
 
 ## HTTP 메시지
 HTTP에서 교환하는 정보를 메시지라고 부른다. 크게 3파트로 구성되있다

@@ -1,4 +1,6 @@
 # 웹과 네트워크의 기본
+>작성자: 김보영 underbleu.dev@gmail.com  
+블로그포스트: [HTTP & 네트워크 기본](https://underbleu.github.io/bookstudy/http-network-basic/pt4/)
 
 ## 1. HTTP란?
 HyperText Transfer Protocol. 클라이언트에서 서버까지 일련의 흐름을 결정하는 프로토콜(약속)이다.

@@ -1,5 +1,6 @@
 # 결과를 전달하는 HTTP 상태코드
-
+>작성자: 김보영 underbleu.dev@gmail.com  
+블로그포스트: [HTTP 상태코드](https://underbleu.github.io/bookstudy/http-network-basic/pt4/)
 
 ## HTTP 상태코드란?
 클라이언트가 HTTP 요청을 보낸 결과. 서버가 정상적으로 처리되었는지 에러가 발생했는지를 알려주는 상태코드이다. 60종류 이상 있지만 14개만 주로 사용한다. 

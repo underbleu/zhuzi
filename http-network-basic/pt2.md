@@ -1,4 +1,7 @@
 # HTTP의 특성
+>작성자: 김보영 underbleu.dev@gmail.com  
+블로그포스트: [HTTP의 특성과 메소드](https://underbleu.github.io/bookstudy/http-network-basic/pt2/)
+
 * TCP/IP에 있는 많은 프로토콜과 마찬가지로 HTTP도 클라이언트와 서버 간에 통신을 한다.
 * HTTP는 클라이언트가 웹서버에게 사용자 요청의 목적/종류를 알리는 수단이다.
 * HTTP는 상태를 유지하지 않는 Stateless 프로토콜이다.
